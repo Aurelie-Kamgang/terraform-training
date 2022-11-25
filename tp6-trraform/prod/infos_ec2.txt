@@ -1,1 +1,0 @@
-PUBLIC IP: 52.45.55.232 ID: i-06fca4af70d1da1bc AZ: us-east-1c
